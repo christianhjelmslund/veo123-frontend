@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/veo123-frontend/static/css/main.de08eb5e.chunk.css",
+    "main.js": "/veo123-frontend/static/js/main.1bf1ed9d.chunk.js",
+    "main.js.map": "/veo123-frontend/static/js/main.1bf1ed9d.chunk.js.map",
+    "runtime-main.js": "/veo123-frontend/static/js/runtime-main.af307155.js",
+    "runtime-main.js.map": "/veo123-frontend/static/js/runtime-main.af307155.js.map",
+    "static/js/2.ac39718f.chunk.js": "/veo123-frontend/static/js/2.ac39718f.chunk.js",
+    "static/js/2.ac39718f.chunk.js.map": "/veo123-frontend/static/js/2.ac39718f.chunk.js.map",
+    "static/js/3.daa4540a.chunk.js": "/veo123-frontend/static/js/3.daa4540a.chunk.js",
+    "static/js/3.daa4540a.chunk.js.map": "/veo123-frontend/static/js/3.daa4540a.chunk.js.map",
+    "index.html": "/veo123-frontend/index.html",
+    "static/css/main.de08eb5e.chunk.css.map": "/veo123-frontend/static/css/main.de08eb5e.chunk.css.map",
+    "static/js/2.ac39718f.chunk.js.LICENSE.txt": "/veo123-frontend/static/js/2.ac39718f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af307155.js",
+    "static/js/2.ac39718f.chunk.js",
+    "static/css/main.de08eb5e.chunk.css",
+    "static/js/main.1bf1ed9d.chunk.js"
+  ]
+}
